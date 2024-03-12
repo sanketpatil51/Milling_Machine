@@ -56,7 +56,19 @@ If the product of tool wear and torque exceeds specific thresholds for each prod
 Each process has a 0.1% chance of failing regardless of its parameters. This occurs for 5 data points.
 
 ## Feature Engineering
+### Chek missing value
+<img align="center" alt="milling machine" width="500" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/isna_img.png" >
+Conclusion: The heatmap analysis unequivocally reveals the absence of any missing values within the dataset.
 
-<img align="center" alt="milling machine" width="1100" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/data_img.png" >
-<img align="center" alt="milling machine" width="1100" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/data_img.png" >
-<img align="center" alt="milling machine" width="1100" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/data_img.png" >
+### tool wear type
+<img align="center" alt="milling machine" width="500" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/count.png" >
+Conclusion: The comparison of the two graphs reveals a clear similarity between the proportion of machine failures by type and the corresponding use of of tool wear types
+
+
+### Correlation 
+<img align="center" alt="milling machine" width="500" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/hmap.png" >
+Conclusion: Based on the heatmap presented above, it is evident that there is a strong correlation between Process temperature [K], Rotational speed [rpm], and Torque [Nm]. However, since Air temperature [K] and Process temperature [K] are closely related terms, we have decided to exclude Air temperature [K] from further analysis. Rotational speed [rpm] and Torque [Nm] remain relevant as distinct variables.
+
+### Nature of response
+<img align="center" alt="milling machine" width="500" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/inb.png" >
+Conclusion: The graph above clearly illustrates that the data is imbalanced, indicating a need for balancing methods to address this issue.
