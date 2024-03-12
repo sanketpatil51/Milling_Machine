@@ -2,6 +2,16 @@
 
 
 
+
+
+
 # Abstract
-In the realm of manufacturing, predictive modeling plays a crucial role in ensuring the efficiency and effectiveness of processes. This study focuses on utilizing data from milling machine operations to develop a predictive model capable of forecasting the success or failure of the process. Moreover, the analysis extends to understanding the impact of various features on the process outcome. By employing advanced analytical techniques, this research aims to provide actionable insights for optimizing milling machine operations and improving overall process reliability.
-<img align="right" alt="coding" width="380" src="https://github.com/sanketpatil51/taffic_sign/blob/main/ts.png" alt="Traffic Sign">
+<img align="right" alt="coding" width="200" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/m_img.png" alt="Traffic Sign">
+
+
+This study focuses on developing a predictive model for forecasting the success or failure of milling machine operations in manufacturing processes. We utilize logistic regression, random forest, artificial neural networks (ANN), and decision tree algorithms to construct the predictive model. Our analysis includes a comprehensive evaluation using confusion matrices to summarize the performance of each model. By leveraging these advanced analytical techniques, our research aims to provide actionable insights for optimizing milling machine operations and enhancing overall process reliability in manufacturing.
+
+# Introduction
+Milling machine operations play a pivotal role in manufacturing processes, where success or failure can significantly impact overall efficiency and reliability. In this study, we address the challenge of predicting the outcomes of milling machine operations using advanced analytical techniques. Specifically, we employ logistic regression, random forest, artificial neural networks (ANN), and decision tree algorithms to develop a predictive model for forecasting success or failure.
+
+
