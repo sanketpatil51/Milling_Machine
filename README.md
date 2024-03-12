@@ -57,3 +57,6 @@ Each process has a 0.1% chance of failing regardless of its parameters. This occ
 
 ## Feature Engineering
 
+<img align="center" alt="milling machine" width="1100" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/data_img.png" >
+<img align="center" alt="milling machine" width="1100" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/data_img.png" >
+<img align="center" alt="milling machine" width="1100" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/data_img.png" >
