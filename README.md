@@ -13,6 +13,8 @@ performance of each model. By leveraging these advanced analytical techniques, o
 Milling machine operations are integral to various manufacturing processes, impacting efficiency and reliability. This study employs logistic regression, random forest, artificial neural networks (ANN), and decision tree algorithms to develop a predictive model for pridicting the success or failure of milling machine operations. By leveraging these advanced analytical techniques, our research aims to provide actionable insights for optimizing milling machine operations and enhancing overall process reliability in manufacturing. The predictive model's evaluation includes a comprehensive analysis using confusion matrices to summarize each model's performance. Through this analysis, we seek to contribute to the advancement of predictive maintenance strategies and overall process optimization in the manufacturing industry. This research addresses the pressing need for reliable predictive models to anticipate and mitigate potential failures in milling machine operations. By identifying key factors influencing success or failure, our study aims to assist manufacturing industries in making informed decisions to improve operational efficiency and reduce downtime. This research contributes to the ongoing efforts in leveraging data-driven approaches to enhance manufacturing processes' reliability and productivity.
 
 ## Data understanding
+<img align="center" alt="milling machine" width="1100" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/data_img.png" >
+
 The dataset utilized in this project is a synthetic representation derived from an existing milling machine. It comprises 10,000 data points organized as rows, each containing 14 features in columns.
 
 Features Description
@@ -52,3 +54,6 @@ If the product of tool wear and torque exceeds specific thresholds for each prod
 
 ### 5)Random Failures (RNF)
 Each process has a 0.1% chance of failing regardless of its parameters. This occurs for 5 data points.
+
+## Feature Engineering
+
