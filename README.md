@@ -79,4 +79,4 @@ After one-hot encoding and balancing the data, it appears as follows
 <img align="center" alt="milling machine" width="900" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/fdata_img.png" >
 
 ### Model Performance Evaluation
-
+<img align="center" alt="milling machine" width="500" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/fs_img.png" >
