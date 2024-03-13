@@ -73,7 +73,10 @@ Conclusion: Based on the heatmap presented above, it is evident that there is a 
 <img align="center" alt="milling machine" width="500" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/inb.png" >
 Conclusion: The graph above clearly illustrates that the data is imbalanced, indicating a need for balancing methods to address this issue.
 
-### Final data 
+## Final data 
 
 After one-hot encoding and balancing the data, it appears as follows
-<img align="center" alt="milling machine" width="500" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/fdata_img.png" >
+<img align="center" alt="milling machine" width="900" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/fdata_img.png" >
+
+### Model Performance Evaluation
+
