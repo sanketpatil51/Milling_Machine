@@ -77,10 +77,10 @@ Conclusion: The graph above clearly illustrates that the data is imbalanced, ind
 
 After one-hot encoding and balancing the data, it appears as follows
 <img align="center" alt="milling machine" width="900" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/fdata_img.png" >
+## Check below is the code for model fitting and feature engineering.
+Google colab link   [clik_here](https://github.com/sanketpatil51/Milling_Machine/blob/main/milling.ipynb)
 
-Google colab link for testing [clik_here](https://github.com/sanketpatil51/taffic_sign/blob/main/code.ipynb) our model
-
-### Model Performance Evaluation
+## Model Performance Evaluation
 <img align="center" alt="milling machine" width="500" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/fs_img.png" >
 
 
