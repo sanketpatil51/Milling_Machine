@@ -17,6 +17,7 @@ Milling machine operations are integral to various manufacturing processes, impa
 
 The dataset utilized in this project is a synthetic representation derived from an existing milling machine. It comprises 10,000 data points organized as rows, each containing 14 features in columns.
 
+
 Features Description
 ### UID (Unique Identifier)
 Ranges from 1 to 10,000, serving as a distinct identifier for each data point.
@@ -82,5 +83,12 @@ Google colab link   [clik_here](https://github.com/sanketpatil51/Milling_Machine
 
 ## Model Performance Evaluation
 <img align="center" alt="milling machine" width="500" src="https://github.com/sanketpatil51/Milling_Machine/blob/main/fs_img.png" >
+Conclusion: Random Forest achieved the highest accuracy among the evaluated models, indicating its superior predictive capability. This underscores its potential as a robust and reliable algorithm for the given dataset.
+
+## Suggestions
+For the successive operation of a milling machine, the following are some suggestions
+1) Kept Torque less than 50 NM.
+2) Replace Tool wear less than 200 times.
+3) Kept rotational seed in between 1379 to 2416 rpm.
 
 
