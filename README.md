@@ -90,5 +90,8 @@ For the successive operation of a milling machine, the following are some sugges
 1) Kept Torque less than 50 NM.
 2) Replace Tool wear less than 200 times.
 3) Kept rotational seed in between 1379 to 2416 rpm.
-
+   
+## limitations
+1) Imbalanced data can still pose challenges in accurately representing the minority class, potentially affecting model performance.
+2) The superior performance of Random Forest may not generalize across all datasets and could be subject to overfitting or bias towards specific features.
 
